@@ -1,0 +1,16 @@
+{
+  "name": "Управленческий пульт · Свободная касса",
+  "short_name": "Пульт",
+  "description": "Управленческий дашборд магазина «Свободная касса»",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#ffffff",
+  "theme_color": "#0d5bba",
+  "icons": [
+    { "src": "icon_192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon_512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon_512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
